@@ -42,7 +42,7 @@ fractureiserがどの様に動作するかは、Stage 0から3まで概ね判明
 このマルウェアに関するファイルを持っている場合、 https://wormhole.app にファイルをアップロードし、
 そのURLを fractureiser.investigation@opayq.com にメールしてください。このメールはunascribedにより管理され、送られた物は全てチームの全員に共有されます
 。より一般的に連絡を取る必要がある場合、jaskarth4@gmail.comにメールしてください。
-**訳注**: この翻訳版についてはこれらのメールアドレスを含む、調査チームに対して連絡しないでください。この翻訳はCC-BY-SA-4.0 ライセンスに基づいた非公式な翻訳版です。この翻訳に関する連絡はこのリポジトリのIssueまたは[Twitterの@toliner_](twitter.com/toliner_)に対して行ってください。
+**訳注**: この翻訳版についてはこれらのメールアドレスを含む、調査チームに対して連絡しないでください。この翻訳はCC-BY-SA-4.0 ライセンスに基づいた非公式な翻訳版です。この翻訳に関する連絡はこのリポジトリのIssueまたは[Twitterの@toliner_](https://twitter.com/toliner_)に対して行ってください。
 
 このドキュメントの一部をどこかに引用する場合、*必ず*冒頭周辺の目立った場所にオリジナルの
 [GitHub Repository](https://github.com/fractureiser-investigation/fractureiser)へのリンクを貼ってください。読者が最新の情報を得たり連絡を取るのに必要です。
